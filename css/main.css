@@ -1,0 +1,13 @@
+body {
+}
+
+#tumblr-posts  {
+	list-style-type: none;
+	width: 50%;
+}
+
+#tumblr-posts li {
+	font-family: "Helvetica";
+	padding: 1em;
+	color: white;
+}
